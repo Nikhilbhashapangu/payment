@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "4565938761",
+    "project_id": "payment-ea2cb",
+    "storage_bucket": "payment-ea2cb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:4565938761:android:bfd345aba8e26c4b41c598",
+        "android_client_info": {
+          "package_name": "com.example.payment"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAnecRZYjdwrQLeGx_Lr6j_hYNHupTvTjE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
